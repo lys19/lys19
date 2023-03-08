@@ -1,14 +1,17 @@
-### Hi there 👋
+나의 이름은 **이영석**입니다. 😁:
 
-**lys19/lys19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 3학년에 재학중인 학생입니다. ♥️:
 
-Here are some ideas to get you started:
+나의 취미
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 게임하기 💻
+- 산책하기 🐶
+- 노래듣기 🎵
+
+나의 워너비 자격증 ✨
+
+| 자격증 이름 | 취득일(**목표**) |
+| -- | -- |
+| ITQ | 2022년 6월 7일 |
+| 웹디자인 기능사 | 2023년 7월 7일 🙏 |
+| 정보처리 산업기사 | 2023년 10월 3일 |
